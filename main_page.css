@@ -1,0 +1,45 @@
+#toptitle {
+    text-align: center;
+    font-family: 'Courier New';
+    font-weight: normal;
+    color: lawngreen;
+    line-height: 7pt;
+}
+
+body {
+    text-align: center;
+    font-family: 'Courier New';
+    color: lawngreen;
+    background-image: url(image/Untitled_Artwork_original_of_Yves.png); /* Screenshot of my windows folder directories in CMD, and edited in ProCreate :D */
+}
+
+legend{
+    text-align: center;
+    font-family: 'Courier New';
+    font-weight: bolder;
+    color: lawngreen;
+    font-size: 24px;
+}
+
+fieldset{
+    margin: auto;
+    border-color: lawngreen;
+    width: 79%;
+    text-align: center;
+    color: lawngreen;
+    font-family: 'Courier New';
+    font-size: 18px;
+}
+
+#generalInformationStyle{
+    font-size: 25px;
+}
+
+#spacer{
+    line-height: 3pt;
+}
+
+#ender{
+    font-size: 15px;
+    color: rgb(93, 185, 0);
+}
